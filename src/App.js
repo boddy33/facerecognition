@@ -57,7 +57,7 @@ class App extends Component {
   render () {
     return (
         <div className="App">
-          <Navigation />
+          {/*<Navigation />*/}
           <Logo />
           <Rank />
           <ImageLinkForm onInputChange={this.onInputChange} onButtonSubmit={this.onButtonSubmit}/>
