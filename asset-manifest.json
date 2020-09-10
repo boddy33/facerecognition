@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/facerecognition/static/css/main.89f1ca78.chunk.css",
-    "main.js": "/facerecognition/static/js/main.05beceaf.chunk.js",
-    "main.js.map": "/facerecognition/static/js/main.05beceaf.chunk.js.map",
+    "main.css": "/facerecognition/static/css/main.c70b89a9.chunk.css",
+    "main.js": "/facerecognition/static/js/main.309841b3.chunk.js",
+    "main.js.map": "/facerecognition/static/js/main.309841b3.chunk.js.map",
     "runtime-main.js": "/facerecognition/static/js/runtime-main.1ad3eaac.js",
     "runtime-main.js.map": "/facerecognition/static/js/runtime-main.1ad3eaac.js.map",
     "static/css/2.3c03f26f.chunk.css": "/facerecognition/static/css/2.3c03f26f.chunk.css",
     "static/js/2.e44985a2.chunk.js": "/facerecognition/static/js/2.e44985a2.chunk.js",
     "static/js/2.e44985a2.chunk.js.map": "/facerecognition/static/js/2.e44985a2.chunk.js.map",
     "index.html": "/facerecognition/index.html",
-    "precache-manifest.15f8eed37b52b0441b54dd3c5de75d06.js": "/facerecognition/precache-manifest.15f8eed37b52b0441b54dd3c5de75d06.js",
+    "precache-manifest.ab4bb092029492001633818f107e2cf7.js": "/facerecognition/precache-manifest.ab4bb092029492001633818f107e2cf7.js",
     "service-worker.js": "/facerecognition/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/facerecognition/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.89f1ca78.chunk.css.map": "/facerecognition/static/css/main.89f1ca78.chunk.css.map",
+    "static/css/main.c70b89a9.chunk.css.map": "/facerecognition/static/css/main.c70b89a9.chunk.css.map",
     "static/js/2.e44985a2.chunk.js.LICENSE.txt": "/facerecognition/static/js/2.e44985a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1ad3eaac.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.e44985a2.chunk.js",
-    "static/css/main.89f1ca78.chunk.css",
-    "static/js/main.05beceaf.chunk.js"
+    "static/css/main.c70b89a9.chunk.css",
+    "static/js/main.309841b3.chunk.js"
   ]
 }
